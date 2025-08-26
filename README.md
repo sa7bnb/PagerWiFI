@@ -145,9 +145,7 @@ void loop() {}
 
 En 3D-printad låda!
 
-https://makerworld.com/sv
-
-Utvecklare: Daniel Andersson
+[https://makerworld.com/sv](https://makerworld.com/sv/models/1734997-pager-wifi#profileId-1843272)
 
 ## Kontakt 
 

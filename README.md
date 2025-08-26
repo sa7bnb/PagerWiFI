@@ -156,3 +156,5 @@ Utvecklare: SA7BNB Anders Isaksson
 E-post: sa7bnb(@)gmail.com
 
 GitHub: https://github.com/sa7bnb/PagerWiFi
+
+![Enhetsbild](https://github.com/sa7bnb/PagerWiFI/blob/main/enhets-bild.jpg)

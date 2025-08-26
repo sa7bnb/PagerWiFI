@@ -157,4 +157,5 @@ E-post: sa7bnb(@)gmail.com
 
 GitHub: https://github.com/sa7bnb/PagerWiFi
 
+<img src="https://raw.githubusercontent.com/sa7bnb/PagerWiFI/main/enhets-bild.jpg" width="500" alt="Enhetsbild">
 ![Enhetsbild](https://github.com/sa7bnb/PagerWiFI/blob/main/enhets-bild.jpg)
